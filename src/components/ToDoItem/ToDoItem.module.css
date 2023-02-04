@@ -1,0 +1,21 @@
+.todoItem {
+    max-width: 500px;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    
+}
+
+.todoTitle {
+    width: 300px;
+    font-size: 20px;
+}
+.button {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: red;
+    font-size: 30px;
+}
